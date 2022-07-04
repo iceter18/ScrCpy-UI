@@ -1,0 +1,15 @@
+C:\Users\AYSHA AQUINO\Desktop\Programming\VISUAL BASIC\ScrCpy UI\ScrCpy UI\bin\Debug\ScrCpy UI.exe.config
+C:\Users\AYSHA AQUINO\Desktop\Programming\VISUAL BASIC\ScrCpy UI\ScrCpy UI\bin\Debug\ScrCpy UI.exe
+C:\Users\AYSHA AQUINO\Desktop\Programming\VISUAL BASIC\ScrCpy UI\ScrCpy UI\bin\Debug\ScrCpy UI.pdb
+C:\Users\AYSHA AQUINO\Desktop\Programming\VISUAL BASIC\ScrCpy UI\ScrCpy UI\bin\Debug\ScrCpy UI.xml
+C:\Users\AYSHA AQUINO\Desktop\Programming\VISUAL BASIC\ScrCpy UI\ScrCpy UI\bin\Debug\Guna.UI.dll
+C:\Users\AYSHA AQUINO\Desktop\Programming\VISUAL BASIC\ScrCpy UI\ScrCpy UI\bin\Debug\Guna.UI.pdb
+C:\Users\AYSHA AQUINO\Desktop\Programming\VISUAL BASIC\ScrCpy UI\ScrCpy UI\obj\Debug\ScrCpy UI.vbprojResolveAssemblyReference.cache
+C:\Users\AYSHA AQUINO\Desktop\Programming\VISUAL BASIC\ScrCpy UI\ScrCpy UI\obj\Debug\ScrCpy_UI.Form1.resources
+C:\Users\AYSHA AQUINO\Desktop\Programming\VISUAL BASIC\ScrCpy UI\ScrCpy UI\obj\Debug\ScrCpy_UI.Resources.resources
+C:\Users\AYSHA AQUINO\Desktop\Programming\VISUAL BASIC\ScrCpy UI\ScrCpy UI\obj\Debug\ScrCpy_UI.Scrcpy_Controls.resources
+C:\Users\AYSHA AQUINO\Desktop\Programming\VISUAL BASIC\ScrCpy UI\ScrCpy UI\obj\Debug\ScrCpy UI.vbproj.GenerateResource.Cache
+C:\Users\AYSHA AQUINO\Desktop\Programming\VISUAL BASIC\ScrCpy UI\ScrCpy UI\obj\Debug\ScrCpy UI.vbproj.CoreCompileInputs.cache
+C:\Users\AYSHA AQUINO\Desktop\Programming\VISUAL BASIC\ScrCpy UI\ScrCpy UI\obj\Debug\ScrCpy UI.exe
+C:\Users\AYSHA AQUINO\Desktop\Programming\VISUAL BASIC\ScrCpy UI\ScrCpy UI\obj\Debug\ScrCpy UI.xml
+C:\Users\AYSHA AQUINO\Desktop\Programming\VISUAL BASIC\ScrCpy UI\ScrCpy UI\obj\Debug\ScrCpy UI.pdb
